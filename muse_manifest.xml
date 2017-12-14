@@ -1,0 +1,106 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.junesqorigraphicdesign.com" resolutions="1x" timestamp="1513237142594">
+  <folder name="css">
+    <file name="site_global.css" crc="4267659876"/>
+    <file name="master_a-master.css" crc="3884448585" ref="about:portfolio:index:contact"/>
+    <file name="about.css" crc="330765676" ref="about"/>
+    <file name="portfolio.css" crc="202401447" ref="portfolio"/>
+    <file name="index.css" crc="96871973" ref="index"/>
+    <file name="contact.css" crc="386862435" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="17924269" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact"/>
+    <file name="museconfig.js" crc="144853533" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:about:portfolio"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:about:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="require.js" crc="3861931657" ref="index:about:portfolio:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="3ec72540214615577633be6f617-u220-fr.png" crc="3855222444" ref="index"/>
+    <file name="pasted-svg-114834x196.svg" crc="336345826" seo="true" ref="index:about:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pasted svg 114834x196_poster_.png" crc="261511347" ref="index"/>
+    <file name="img_5718.jpg" crc="264336414" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="findingdory.jpg" crc="3946985336" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="itposter.jpg" crc="248489249" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pomegranateposteroriginal.jpg" crc="101273830" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="democracy poster design .jpg" crc="3864813327" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="nyc poster.jpg" crc="3765861092" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="big hero.jpg" crc="3809083855" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="logo v21.jpg" crc="4049070006" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="cheater.jpg" crc="3940058568" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="balloon j.jpg" crc="6317418" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="junes-samposter.jpg" crc="508432529" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pineapple.jpg" crc="4066144867" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="themazerunner_bookcover.jpg" crc="440334134" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="scorchtrials1.jpg" crc="420220511" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="thedeathcure_coverbook.jpg" crc="4236931755" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="vodkalemonflyer.jpg" crc="3798151897" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="owlbar.jpg" crc="3994119328" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="vodkaorangeflyer.jpg" crc="500032730" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="3671_1379208012329115_2083473940_n.jpg" crc="3843015316" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_5795.jpg" crc="4134746636" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="img_6665.jpg" crc="3812642483" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ladygaga.jpg" crc="3767786809" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="ladygagatourposter.jpg" crc="74587426" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4113092193" seo="true" mt="1513237029828" redirect="true"/>
+  <file name="about.html" crc="95024561" seo="true" mt="1513233846204" redirect="true"/>
+  <file name="portfolio.html" crc="105724296" seo="true" mt="1513233846204" redirect="true"/>
+  <file name="contact.html" crc="3833297470" seo="true" mt="1513237086349" redirect="true"/>
+</manifest>
